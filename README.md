@@ -94,12 +94,10 @@ https://pastebin.com/raw/T67TVJG9
 
 ---
 
-## 📸 Screenshots & Media
+## 📸 Video
 
 https://github.com/user-attachments/assets/74d56a33-03ec-4cd4-9921-3104a72221e0
 
 ---
 
-## 👨‍💻 Author
 
-Reverse engineering project – for educational purposes and practice in APK decompilation and restoration.
