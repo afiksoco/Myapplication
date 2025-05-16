@@ -89,11 +89,14 @@ https://pastebin.com/raw/T67TVJG9
 4. Follow the arrow directions shown based on your ID
 5. View result in a toast message
 
+
+
+
 ---
 
 ## 📸 Screenshots & Media
 
-🎥 `Screen_Recording_20250516_180229_SurviveGame.1.mp4`
+https://github.com/user-attachments/assets/74d56a33-03ec-4cd4-9921-3104a72221e0
 
 ---
 
